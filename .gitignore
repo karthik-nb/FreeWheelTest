@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FreeWheelTest/obj/Debug
+/FreeWheelTest/.vs/FreeWheelTest/v15
+/FreeWheelTest/bin/Debug
